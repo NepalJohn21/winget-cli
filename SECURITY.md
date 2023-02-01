@@ -6,7 +6,7 @@ Microsoft takes the security of our software products and services seriously, wh
 
 If you believe you have found a security vulnerability in any Microsoft-owned repository that meets Microsoft's [definition](https://docs.microsoft.com/previous-versions/tn-archive/cc751383(v=technet.10)) of a security vulnerability, please report it to us as described below.
 
-## Reporting Security Issues
+## Reporting Security Issues XD
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
